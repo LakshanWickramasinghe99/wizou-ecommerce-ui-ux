@@ -42,9 +42,9 @@ A minimal, high-end E-commerce website UI design created for **WIZOU Apparel**, 
 
 ![Home Page](assets/home.png)
 ![Shop Page](assets/product.png)
-![Product Detail](assets/product details.png)
-![Cart Drawer](assets/cart page.png)
-![Checkout Page](assets/payment page.png)
+![Product Detail](assets/product-details.png)
+![Cart Drawer](assets/cart-page.png)
+![Checkout Page](assets/payment-page.png)
 
 ---
 
